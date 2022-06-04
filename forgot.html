@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="Kodinger">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="css/my-login.css">
+</head>
+<body class="my-login-page">
+	<section class="h-100">
+		<div class="container h-100">
+			<div class="row justify-content-md-center align-items-center h-100">
+				<div class="card-wrapper">
+					<div class="brand">
+						<img src="data:image/png;base64,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" alt="#">
+					</div>
+					<div class="card fat">
+						<div class="card-body">
+							<h4 class="card-title">Forgot Password</h4>
+							<form method="POST" class="my-login-validation" novalidate="">
+								<div class="form-group">
+									<label for="email">E-Mail Address</label>
+									<input id="email" type="email" class="form-control" name="email" value="" required autofocus>
+									<div class="invalid-feedback">
+										Email is invalid
+									</div>
+									<div class="form-text text-muted">
+										By clicking "Reset Password" we will send a password reset link
+									</div>
+								</div>
+
+								<div class="form-group m-0">
+									<button type="submit" class="btn btn-primary btn-block">
+										Reset Password
+									</button>
+								</div>
+							</form>
+						</div>
+					</div>
+					<div class="footer">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="js/my-login.js"></script>
+</body>
+</html>
