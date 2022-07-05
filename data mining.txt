@@ -1,0 +1,32 @@
+ decison tree
+
+https://colab.research.google.com/drive/1Oq0S5-7mrg7kdK6Emra4x7d6sWtdBKMz?usp=sharing
+
+navie bayes
+
+https://colab.research.google.com/drive/1vl0JaUDJ6B0OxCl7VCwEEm9JxIDIU2au?usp=sharing
+
+k mean clustering
+
+
+https://colab.research.google.com/drive/18iZ23Rf1vmDbrXYlTsSNxrsbYY_b5YAW?usp=sharing
+
+apriori algorithm
+
+https://colab.research.google.com/drive/1HidZRVFpdK3oAXlqEAeJCKGNJEcABygb?usp=sharing
+
+
+hierarchial algorithm
+
+https://colab.research.google.com/drive/1H9j3HXtWfB-rHE3ug-2YtGzyxyYRHtgz?usp=sharing
+
+dbsca 
+
+https://colab.research.google.com/drive/1z22f-aAnz75dv94C1LrUIHlfX4lajjcT?usp=sharing
+
+
+
+svm
+
+https://colab.research.google.com/drive/1z22f-aAnz75dv94C1LrUIHlfX4lajjcT?usp=sharing
+
